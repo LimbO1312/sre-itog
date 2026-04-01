@@ -5,4 +5,4 @@
 - [Runbook: рост 5xx](runbooks/http_5xx_rate_high.md)
 - [Runbook: здоровье сервиса](runbooks/service_healthcheck_failed.md)
 - [Runbook: демо podinfo](runbooks/podinfo_http_errors.md)
-- [Runbook: демо podinfo](runbooks/http_request_duration_seconds.md)
+- [Runbook: демо latency](runbooks/http_request_duration_seconds.md)
